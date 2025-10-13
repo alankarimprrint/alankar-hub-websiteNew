@@ -122,7 +122,7 @@ export default function TermsPage() {
             </h2>
             <p className="text-gray-700 leading-relaxed">
               For questions about these terms, please contact us at
-              alankardigitalhub@gmail.com or call +91 8422925097.
+              alankardigitalhub@gmail.com or call  9823967799, 8422925096, 7709285555.
             </p>
           </div>
 
@@ -132,10 +132,10 @@ export default function TermsPage() {
               <br />
               ALANKAR DIGITAL HUB
               <br />
-              Gate no-8, Orient Park, near Stylo Tailor, besides Nilesh park
-              society, Malwadi road,
-              <br />
-              Hadapsar, Pune- 411028
+             Manjari Farm, A/P, Solapur Rd, beside Cadence Academy, opp.
+                  Govind Hotel,
+                  <br />
+                  Manjri, Pune-412307, Maharashtra
             </p>
           </div>
         </div>

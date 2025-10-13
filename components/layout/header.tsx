@@ -27,7 +27,7 @@ export default function Header() {
           <div className="flex items-center space-x-4">
             <div className="flex items-center space-x-1">
               <Phone className="w-4 h-4" />
-              <span>+91 8422925097</span>
+              <span>9823967799, 8422925096, 7709285555</span>
             </div>
             <div className="flex items-center space-x-1">
               <Mail className="w-4 h-4" />

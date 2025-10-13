@@ -36,7 +36,9 @@ export default function Footer() {
             <div className="space-y-3">
               <div className="flex items-center space-x-2">
                 <Phone className="w-4 h-4 text-blue-400" />
-                <span className="text-gray-300">+91 8422925097</span>
+                <span className="text-gray-300">
+                  9823967799, 8422925096, 7709285555
+                </span>
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="w-4 h-4 text-blue-400" />
@@ -47,10 +49,10 @@ export default function Footer() {
               <div className="flex items-start space-x-2">
                 <MapPin className="w-4 h-4 text-blue-400 mt-1" />
                 <span className="text-gray-300">
-                  Gate no-8, Orient Park, near Stylo Tailor, besides Nilesh park
-                  society, Malwadi road,
+                  Manjari Farm, A/P, Solapur Rd, beside Cadence Academy, opp.
+                  Govind Hotel,
                   <br />
-                  Hadapsar, Pune- 411028
+                  Manjri, Pune-412307, Maharashtra
                 </span>
               </div>
               <div className="flex items-center space-x-2">
@@ -90,7 +92,7 @@ export default function Footer() {
               >
                 Privacy Policy
               </Link>
-               <Link
+              <Link
                 href="/refund"
                 className="block text-gray-300 hover:text-white transition-colors"
               >

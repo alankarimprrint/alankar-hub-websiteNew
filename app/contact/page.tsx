@@ -162,6 +162,7 @@ export default function ContactPage() {
                 )}
               </form>
             </CardContent>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1034.9258540308122!2d73.97617416144128!3d18.49578705866481!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1760339195382!5m2!1sen!2sin" width="100%" height="400" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </Card>
 
           {/* Business Details */}
@@ -176,7 +177,7 @@ export default function ContactPage() {
                   <Phone className="w-5 h-5 text-blue-600" />
                   <div>
                     <p className="font-medium">Phone</p>
-                    <p className="text-gray-600">+91 8422925097</p>
+                    <p className="text-gray-600">9823967799, 8422925096, 7709285555</p>
                   </div>
                 </div>
 
@@ -196,10 +197,9 @@ export default function ContactPage() {
                   <div>
                     <p className="font-medium">Address</p>
                     <p className="text-gray-600">
-                      Gate no-8, Orient Park, near Stylo Tailor, besides Nilesh
-                      park society, Malwadi road,
+                      Manjari Farm, A/P, Solapur Rd, beside Cadence Academy, opp. Govind Hotel,
                       <br />
-                      Hadapsar, Pune- 411028
+                      Manjri, Pune-412307, Maharashtra 
                     </p>
                   </div>
                 </div>

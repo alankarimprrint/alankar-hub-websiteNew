@@ -6,9 +6,12 @@ export default function PrivacyPage() {
 
         <div className="bg-white rounded-lg shadow-sm p-8 space-y-6">
           <div>
-            <h2 className="text-2xl font-semibold mb-4">1. Information We Collect</h2>
+            <h2 className="text-2xl font-semibold mb-4">
+              1. Information We Collect
+            </h2>
             <p className="text-gray-700 leading-relaxed mb-3">
-              We collect information you provide directly to us, such as when you:
+              We collect information you provide directly to us, such as when
+              you:
             </p>
             <ul className="list-disc list-inside text-gray-700 space-y-1 ml-4">
               <li>Place an order for printing services</li>
@@ -19,8 +22,12 @@ export default function PrivacyPage() {
           </div>
 
           <div>
-            <h2 className="text-2xl font-semibold mb-4">2. Types of Information</h2>
-            <p className="text-gray-700 leading-relaxed mb-3">The information we collect may include:</p>
+            <h2 className="text-2xl font-semibold mb-4">
+              2. Types of Information
+            </h2>
+            <p className="text-gray-700 leading-relaxed mb-3">
+              The information we collect may include:
+            </p>
             <ul className="list-disc list-inside text-gray-700 space-y-1 ml-4">
               <li>Personal identifiers (name, email, phone number)</li>
               <li>Business information (company name, address)</li>
@@ -31,8 +38,12 @@ export default function PrivacyPage() {
           </div>
 
           <div>
-            <h2 className="text-2xl font-semibold mb-4">3. How We Use Your Information</h2>
-            <p className="text-gray-700 leading-relaxed mb-3">We use the information we collect to:</p>
+            <h2 className="text-2xl font-semibold mb-4">
+              3. How We Use Your Information
+            </h2>
+            <p className="text-gray-700 leading-relaxed mb-3">
+              We use the information we collect to:
+            </p>
             <ul className="list-disc list-inside text-gray-700 space-y-1 ml-4">
               <li>Process and fulfill your printing orders</li>
               <li>Communicate about your orders and services</li>
@@ -44,34 +55,42 @@ export default function PrivacyPage() {
           </div>
 
           <div>
-            <h2 className="text-2xl font-semibold mb-4">4. Information Sharing</h2>
+            <h2 className="text-2xl font-semibold mb-4">
+              4. Information Sharing
+            </h2>
             <p className="text-gray-700 leading-relaxed">
-              We do not sell, trade, or rent your personal information to third parties. We may share your information
-              only in the following circumstances: with service providers who assist in our operations, when required by
-              law, or to protect our rights and safety.
+              We do not sell, trade, or rent your personal information to third
+              parties. We may share your information only in the following
+              circumstances: with service providers who assist in our
+              operations, when required by law, or to protect our rights and
+              safety.
             </p>
           </div>
 
           <div>
             <h2 className="text-2xl font-semibold mb-4">5. Data Security</h2>
             <p className="text-gray-700 leading-relaxed">
-              We implement appropriate security measures to protect your personal information against unauthorized
-              access, alteration, disclosure, or destruction. However, no method of transmission over the internet is
-              100% secure.
+              We implement appropriate security measures to protect your
+              personal information against unauthorized access, alteration,
+              disclosure, or destruction. However, no method of transmission
+              over the internet is 100% secure.
             </p>
           </div>
 
           <div>
             <h2 className="text-2xl font-semibold mb-4">6. Data Retention</h2>
             <p className="text-gray-700 leading-relaxed">
-              We retain your personal information for as long as necessary to fulfill the purposes outlined in this
-              policy, comply with legal obligations, resolve disputes, and enforce our agreements.
+              We retain your personal information for as long as necessary to
+              fulfill the purposes outlined in this policy, comply with legal
+              obligations, resolve disputes, and enforce our agreements.
             </p>
           </div>
 
           <div>
             <h2 className="text-2xl font-semibold mb-4">7. Your Rights</h2>
-            <p className="text-gray-700 leading-relaxed mb-3">You have the right to:</p>
+            <p className="text-gray-700 leading-relaxed mb-3">
+              You have the right to:
+            </p>
             <ul className="list-disc list-inside text-gray-700 space-y-1 ml-4">
               <li>Access your personal information</li>
               <li>Correct inaccurate information</li>
@@ -82,27 +101,33 @@ export default function PrivacyPage() {
           </div>
 
           <div>
-            <h2 className="text-2xl font-semibold mb-4">8. Cookies and Tracking</h2>
+            <h2 className="text-2xl font-semibold mb-4">
+              8. Cookies and Tracking
+            </h2>
             <p className="text-gray-700 leading-relaxed">
-              Our website may use cookies to enhance user experience and analyze website traffic. You can control cookie
-              settings through your browser preferences.
+              Our website may use cookies to enhance user experience and analyze
+              website traffic. You can control cookie settings through your
+              browser preferences.
             </p>
           </div>
 
-         
-
           <div>
-            <h2 className="text-2xl font-semibold mb-4">9. Changes to This Policy</h2>
+            <h2 className="text-2xl font-semibold mb-4">
+              9. Changes to This Policy
+            </h2>
             <p className="text-gray-700 leading-relaxed">
-              We may update this privacy policy from time to time. We will notify you of any changes by posting the new
-              policy on this page and updating the "last updated" date.
+              We may update this privacy policy from time to time. We will
+              notify you of any changes by posting the new policy on this page
+              and updating the "last updated" date.
             </p>
           </div>
 
           <div>
             <h2 className="text-2xl font-semibold mb-4">10. Contact Us</h2>
             <p className="text-gray-700 leading-relaxed">
-              If you have any questions about this privacy policy, please contact us at alankardigitalhub@gmail.com or call +91 8422925097.
+              If you have any questions about this privacy policy, please
+              contact us at alankardigitalhub@gmail.com or call 9823967799,
+              8422925096, 7709285555.
             </p>
           </div>
 
@@ -110,16 +135,16 @@ export default function PrivacyPage() {
             <p className="text-sm text-gray-600">
               Last updated: July 2025
               <br />
-             ALANKAR DIGITAL HUB
+              ALANKAR DIGITAL HUB
               <br />
-              Gate no-8, Orient Park, near Stylo Tailor, besides Nilesh park
-              society, Malwadi road,
+              Manjari Farm, A/P, Solapur Rd, beside Cadence Academy, opp. Govind
+              Hotel,
               <br />
-              Hadapsar, Pune- 411028
+              Manjri, Pune-412307, Maharashtra
             </p>
           </div>
         </div>
       </div>
     </div>
-  )
+  );
 }
