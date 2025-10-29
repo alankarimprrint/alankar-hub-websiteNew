@@ -46,24 +46,24 @@ export default function Header() {
           {/* Logo */}
           <Link href="" className="flex items-center space-x-2">
             <div className="bg-white-600 text-white p-2 rounded-lg">
-             <img
+             {/* <img
         src="/LOGO.png"
         alt="Logo"
         width={150}
         height={150}
         className="rounded-lg"
-      />
+      /> */}
             </div>
            
           </Link>
 
           {/* Desktop Navigation */}
-          <nav className="hidden lg:flex items-center space-x-8">
+          <nav className="hidden lg:flex items-center justify-center w-full space-x-8">
             {navigation.map((item) => (
               <Link
                 key={item.name}
                 href={item.href}
-                className="text-gray-700 hover:text-blue-600 font-medium transition-colors"
+                 className="text-gray-800 hover:text-blue-600 text-lg  transition-all"
               >
                 {item.name}
               </Link>

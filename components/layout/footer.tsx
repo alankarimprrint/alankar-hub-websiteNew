@@ -10,12 +10,12 @@ export default function Footer() {
           <div>
             <div className="flex flex-col items-center mb-4 space-y-2">
               <Link href="/" className="block">
-                <img
+                {/* <img
                   src="/Logo2.png"
                   alt="Logo"
                   width={150}
                   className="rounded-md"
-                />
+                /> */}
               </Link>
               <h3 className="font-bold text-lg text-center">
                 ALANKAR DIGITAL HUB
