@@ -13,7 +13,7 @@ export default function Header() {
     { name: "Home", href: "/" },
     { name: "Services", href: "/services" },
     { name: "Contact Us", href: "/contact" },
-    { name: "Terms & Conditions", href: "/terms" },
+    { name: "Terms & Conditions", href: "/ " },
     { name: "Privacy Policy", href: "/privacy" },
     { name: "Refund Policy", href: "/refund" },
     // { name: "Shipping Policy", href: "/shipping" },
